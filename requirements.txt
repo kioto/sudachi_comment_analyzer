@@ -1,0 +1,5 @@
+Cython==0.29.21
+dartsclone==0.9.0
+sortedcontainers==2.1.0
+SudachiDict-core==20200330
+SudachiPy==0.4.9
