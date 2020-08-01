@@ -15,6 +15,7 @@ USER_DIC_FILE = './user.dic'
 TOKENIZER_OBJ = dictionary.Dictionary().create()
 SYSTEM_DIC_PATH = dictionary.config.settings.system_dict_path()
 
+
 def convert_def_to_csv(def_filename, csv_filename):
     """defファイルからCSVユーザ辞書ファイルに変換
 
