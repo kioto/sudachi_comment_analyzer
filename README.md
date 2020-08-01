@@ -1,0 +1,2 @@
+# sudachi_comment_analyzer
+SudachiPyを使用した、不動産情報の物件コメントを解析するツール
